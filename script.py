@@ -1,3 +1,3 @@
 print("hello world")
 print("hello maulana")
-print("LALALALALALALa")
+print("no no no no")
