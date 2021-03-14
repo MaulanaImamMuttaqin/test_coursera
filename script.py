@@ -1,3 +1,5 @@
 print("hello world")
 print("hello maulana")
 print("yes yes yes yes yes YES")
+print("add something else")
+print("printin some random word")
